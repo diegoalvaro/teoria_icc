@@ -1,3 +1,6 @@
-x=int(input('ingrese numero:'))
-y= ((2*x)-4)**2
+a=int(input('ingrese numero:'))
+b=int(input('ingrese numero:'))
+y= ((2*a)-4)**2
+z= (a*b)/2
 print(y)
+print(z)
