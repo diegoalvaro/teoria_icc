@@ -8,5 +8,5 @@ print(y)
 print(z)
 print(m)
 imprimir ( e
-F   = (e+m)/4
+F   = (e+m)/4**2
 imprimir (F)
