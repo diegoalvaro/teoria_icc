@@ -7,4 +7,6 @@ e=m**2
 print(y)
 print(z)
 print(m)
-print(e)
+imprimir ( e
+F   = (e+m)/4
+imprimir (F)
