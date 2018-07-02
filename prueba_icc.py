@@ -3,6 +3,8 @@ b=int(input('ingrese numero:'))
 y= ((2*a)-4)%3
 z= (a*b)/2
 m=y+z
+e=m**2
 print(y)
 print(z)
 print(m)
+print(e)
